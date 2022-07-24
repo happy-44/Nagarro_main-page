@@ -16,8 +16,7 @@ ul{
 }
 li{
     margin-top: 1rem;
-    
-}
+}    
 input{
     background-color: #1a1919;
     height: 4rem;
@@ -25,5 +24,6 @@ input{
     font-size: 1.5rem;
     color: white;
     cursor: pointer;
+    border-radius: 1.5rem;
 }
 
